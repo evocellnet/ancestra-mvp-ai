@@ -1,0 +1,8 @@
+b3931b0359c73453b77716e27e240327fa10c2b65fb6f39bb08ddae47a389820  ./orthobench/accurate/hogs.orthoxml.gz
+f3ba84e7be4e96e987e9a6fb01e5468fa57105e3906c2470ac89deb0a80e7a94  ./orthobench/accurate/orthobench_ogs.txt.gz
+e7603f0b74f355fe0ce3d8ef21ae7f179522c02d2e4734a1c34eb4120aebcadb  ./orthobench/accurate/pairs.tsv.gz
+0bad66294c7474d3ba4d278f6bfa423083c41ec6d3aa6cc96ac7868abbc734d0  ./orthobench/fast/hogs.orthoxml.gz
+8edcf5befadd45478f770c046ca75124b12e4cbe405af3dd640c2dedc51b0563  ./orthobench/fast/orthobench_ogs.txt.gz
+5573f2ea74cbbbc0b7e728ec7b859666b500a7c74b36d9a56659296ff7673e08  ./orthobench/fast/pairs.tsv.gz
+de46f16b53fa97e9ca5f8573e9d134a7ec0552732f1fbb97a5622521475b288f  ./qfo2022/accurate/hogs.orthoxml.gz
+6dea475f43c31a5cae0e8308a4b0d47bb3befa465ea5a333ea0f8d49f7d19099  ./qfo2022/fast/hogs.orthoxml.gz

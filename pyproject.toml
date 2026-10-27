@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ancestra"
+version = "0.1.0"
+description = "Orthology inference by progressive reconstruction of ancestral proteomes (HOGs in OrthoXML)"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "lxml>=4.9",
+  "pandas>=2.0",
+  "pyarrow>=14",
+  "numba>=0.58",
+  "igraph>=0.10",
+  "leidenalg>=0.10",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+pyham = ["pyham>=1.1"]
+
+[project.scripts]
+ancestra = "ancestra.__main__:main"
+
+# External programs (not pip-installable; see environment.yml): diamond, mmseqs2, famsa, FastTree
+# (foldseek only for the optional --family-rescue 3di|both).
+
+[tool.setuptools.packages.find]
+include = ["ancestra*"]
+
+[tool.setuptools.package-data]
+ancestra = ["schemas/*.xsd", "schemas/README"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: longer-running tests (simulator timing)"]

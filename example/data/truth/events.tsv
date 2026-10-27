@@ -1,0 +1,554 @@
+event_id	time	type	branch	family	gene_tree_node	details
+0	0.003413	inversion	sp5		-1	chr2:218:2
+1	0.004334	loss	sp5	fam0159	300	
+2	0.005916	duplication	sp5	fam0135	301	dispersed:chr2
+3	0.009673	duplication	N1	fam0045	302	tandem
+4	0.009714	duplication	N1	fam0050	303	tandem
+5	0.009836	duplication	N1	fam0162	304	dispersed:chr2
+6	0.016666	inversion	sp5		-1	chr2:149:10
+7	0.020656	loss	N2	fam0185	608	
+8	0.02155	loss	N2	fam0030	609	
+9	0.023701	loss	N2	fam0004	610	
+10	0.025071	inversion	sp5		-1	chr2:255:2
+11	0.025786	duplication	N2	fam0259	611	tandem
+12	0.027693	duplication	sp0	fam0056	612	tandem
+13	0.02839	translocation	sp5		-1	chr2:150:2->chr2:134:inv
+14	0.028699	loss	sp5	fam0077	613	
+15	0.029875	duplication	sp5	fam0132	614	tandem
+16	0.036724	duplication	sp0	fam0210	615	tandem
+17	0.039614	duplication	sp0	fam0026	616	tandem
+18	0.041406	inversion	sp5		-1	chr2:29:2
+19	0.041782	duplication	sp0	fam0002	617	dispersed:chr2
+20	0.044658	loss	sp5	fam0072	618	
+21	0.04488	loss	sp5	fam0262	619	
+22	0.04774	loss	sp5	fam0162	620	
+23	0.048926	duplication	N2	fam0053	621	tandem
+24	0.05024	duplication	sp0	fam0086	622	dispersed:chr2
+25	0.050641	duplication	sp5	fam0001	623	tandem
+26	0.055624	duplication	sp0	fam0184	624	dispersed:chr2
+27	0.059481	duplication	sp0	fam0052	625	tandem
+28	0.059637	loss	sp5	fam0168	626	
+29	0.060392	loss	sp0	fam0119	627	
+30	0.063066	inversion	N2		-1	chr2:210:6
+31	0.064002	duplication	N2	fam0014	628	tandem
+32	0.066729	loss	sp5	fam0099	629	
+33	0.069947	loss	sp0	fam0243	630	
+34	0.070651	loss	sp0	fam0134	631	
+35	0.071304	duplication	sp0	fam0028	632	tandem
+36	0.077501	loss	sp5	fam0012	633	
+37	0.078926	loss	sp5	fam0008	634	
+38	0.089157	duplication	sp0	fam0257	635	tandem
+39	0.08967	duplication	sp0	fam0167	636	tandem
+40	0.094621	inversion	sp0		-1	chr2:44:3
+41	0.096065	duplication	sp0	fam0186	637	dispersed:chr2
+42	0.102371	loss	sp0	fam0167	638	
+43	0.102549	duplication	sp5	fam0067	639	tandem
+44	0.104539	loss	sp5	fam0135	640	
+45	0.105092	loss	sp0	fam0115	641	
+46	0.109905	loss	sp5	fam0015	642	
+47	0.110347	loss	sp0	fam0086	643	
+48	0.111379	duplication	sp0	fam0088	644	tandem
+49	0.111631	inversion	N2		-1	chr2:145:1
+50	0.114067	duplication	sp5	fam0005	645	tandem
+51	0.115551	duplication	sp5	fam0052	646	tandem
+52	0.120815	loss	sp0	fam0040	647	
+53	0.124701	duplication	sp5	fam0164	648	tandem
+54	0.129444	duplication	sp0	fam0237	649	tandem
+55	0.131202	duplication	N2	fam0128	650	tandem
+56	0.133175	duplication	N2	fam0240	651	tandem
+57	0.133663	loss	sp5	fam0155	652	
+58	0.135755	loss	sp5	fam0076	653	
+59	0.144433	loss	sp5	fam0133	654	
+60	0.145423	loss	sp0	fam0078	655	
+61	0.145928	loss	sp0	fam0027	656	
+62	0.14951	duplication	sp5	fam0125	657	dispersed:chr2
+63	0.15312	duplication	sp5	fam0271	658	tandem
+64	0.153626	duplication	N2	fam0200	659	tandem
+65	0.154615	duplication	sp5	fam0037	660	dispersed:chr2
+66	0.156429	duplication	sp0	fam0143	661	dispersed:chr2
+67	0.15736	duplication	N2	fam0109	662	tandem
+68	0.157374	duplication	N2	fam0029	663	tandem
+69	0.157511	loss	sp5	fam0288	664	
+70	0.163583	loss	sp0	fam0283	665	
+71	0.163684	duplication	sp0	fam0076	666	tandem
+72	0.164177	duplication	sp0	fam0160	667	tandem
+73	0.164771	loss	sp0	fam0031	668	
+74	0.165512	loss	N2	fam0116	669	
+75	0.166918	loss	sp5	fam0079	670	
+76	0.168135	loss	sp0	fam0045	671	
+77	0.168738	duplication	sp0	fam0020	672	dispersed:chr2
+78	0.168747	inversion	sp5		-1	chr2:76:1
+79	0.170648	duplication	sp5	fam0022	673	tandem
+80	0.172331	loss	N2	fam0229	674	
+81	0.176673	duplication	sp0	fam0160	675	dispersed:chr2
+82	0.177196	loss	N2	fam0299	676	
+83	0.177323	duplication	sp5	fam0276	677	tandem
+84	0.183407	inversion	sp0		-1	chr2:213:1
+85	0.185726	loss	sp5	fam0299	678	
+86	0.189405	duplication	sp5	fam0027	679	tandem
+87	0.189879	loss	N2	fam0264	680	
+88	0.193188	loss	sp5	fam0038	681	
+89	0.193238	duplication	N2	fam0083	682	tandem
+90	0.19342	loss	sp0	fam0058	683	
+91	0.19477	loss	N2	fam0014	684	
+92	0.207396	duplication	sp5	fam0088	685	tandem
+93	0.207803	duplication	N2	fam0205	686	tandem
+94	0.208609	loss	N2	fam0039	687	
+95	0.211277	inversion	sp0		-1	chr2:265:1
+96	0.216525	loss	sp5	fam0135	688	
+97	0.217044	inversion	sp5		-1	chr2:76:1
+98	0.217958	loss	N2	fam0198	689	
+99	0.219654	loss	sp0	fam0153	690	
+100	0.222008	loss	sp5	fam0025	691	
+101	0.223145	loss	sp5	fam0164	692	
+102	0.223506	inversion	sp0		-1	chr2:141:4
+103	0.228578	duplication	sp0	fam0108	693	tandem
+104	0.230283	loss	sp0	fam0007	694	
+105	0.230344	duplication	sp0	fam0045	695	dispersed:chr2
+106	0.233164	loss	sp5	fam0010	696	
+107	0.233545	duplication	sp5	fam0125	697	tandem
+108	0.233676	duplication	N2	fam0077	698	tandem
+109	0.23548	loss	sp0	fam0214	699	
+110	0.238266	duplication	sp0	fam0105	700	tandem
+111	0.245919	loss	sp0	fam0264	701	
+112	0.252154	loss	N2	fam0205	702	
+113	0.26316	duplication	sp5	fam0110	703	tandem
+114	0.265387	loss	sp5	fam0190	704	
+115	0.269694	duplication	sp5	fam0053	705	tandem
+116	0.272793	inversion	sp0		-1	chr2:131:1
+117	0.273542	loss	sp0	fam0090	706	
+118	0.273565	duplication	N2	fam0077	707	dispersed:chr2
+119	0.276557	inversion	sp0		-1	chr2:77:1
+120	0.277086	loss	sp5	fam0211	708	
+121	0.277434	duplication	sp5	fam0006	709	tandem
+122	0.279941	duplication	N2	fam0188	710	tandem
+123	0.280447	loss	sp5	fam0104	711	
+124	0.281936	loss	sp5	fam0113	712	
+125	0.282706	duplication	sp5	fam0230	713	tandem
+126	0.285758	loss	sp0	fam0231	714	
+127	0.287868	duplication	N2	fam0080	715	tandem
+128	0.291258	duplication	N2	fam0192	716	tandem
+129	0.298543	duplication	sp0	fam0257	717	tandem
+130	0.300323	loss	sp0	fam0100	718	
+131	0.302821	translocation	sp0		-1	chr2:256:2->chr2:234:fwd
+132	0.30283	duplication	sp5	fam0120	719	dispersed:chr2
+133	0.305175	inversion	sp5		-1	chr2:161:2
+134	0.306433	loss	N2	fam0163	720	
+135	0.310622	duplication	sp0	fam0041	721	tandem
+136	0.31213	duplication	N2	fam0094	722	tandem
+137	0.314124	loss	sp0	fam0172	723	
+138	0.323646	loss	N2	fam0204	724	
+139	0.32456	loss	sp5	fam0270	725	
+140	0.327614	loss	sp5	fam0205	726	
+141	0.329488	loss	sp0	fam0098	727	
+142	0.32969	inversion	sp5		-1	chr1:2:4
+143	0.33156	inversion	sp0		-1	chr2:206:3
+144	0.33488	duplication	sp5	fam0297	728	dispersed:chr2
+145	0.335508	inversion	sp5		-1	chr2:160:2
+146	0.335704	duplication	N2	fam0232	729	tandem
+147	0.336521	duplication	N2	fam0083	730	tandem
+148	0.339023	duplication	sp5	fam0227	731	dispersed:chr2
+149	0.340872	duplication	N2	fam0091	732	tandem
+150	0.344318	duplication	sp0	fam0005	733	dispersed:chr1
+151	0.345446	loss	sp0	fam0005	734	
+152	0.346558	translocation	sp0		-1	chr2:56:3->chr2:6:inv
+153	0.347627	loss	sp5	fam0292	735	
+154	0.347729	duplication	sp5	fam0115	736	dispersed:chr2
+155	0.348874	loss	sp5	fam0029	737	
+156	0.351526	duplication	sp5	fam0053	738	tandem
+157	0.352411	loss	sp5	fam0248	739	
+158	0.35314	loss	N2	fam0216	740	
+159	0.354816	duplication	sp5	fam0138	741	tandem
+160	0.356126	loss	sp5	fam0297	742	
+161	0.357123	duplication	sp0	fam0165	743	tandem
+162	0.359356	loss	sp0	fam0195	744	
+163	0.364048	duplication	sp5	fam0147	745	tandem
+164	0.364401	duplication	N2	fam0083	746	tandem
+165	0.364893	inversion	sp0		-1	chr2:193:2
+166	0.367583	loss	sp0	fam0148	747	
+167	0.370015	duplication	sp0	fam0073	748	dispersed:chr2
+168	0.370553	translocation	N2		-1	chr2:271:1->chr1:10:fwd
+169	0.373368	duplication	N2	fam0111	749	tandem
+170	0.373484	duplication	sp5	fam0289	750	tandem
+171	0.385813	translocation	N2		-1	chr2:238:6->chr1:31:inv
+172	0.385965	inversion	sp5		-1	chr2:91:5
+173	0.390928	translocation	sp0		-1	chr2:30:9->chr2:119:inv
+174	0.394777	loss	sp0	fam0244	751	
+175	0.396225	loss	sp5	fam0080	752	
+176	0.400398	translocation	sp5		-1	chr2:256:5->chr1:32:inv
+177	0.400488	loss	sp5	fam0261	753	
+178	0.406307	duplication	N2	fam0065	754	tandem
+179	0.406584	duplication	sp0	fam0043	755	tandem
+180	0.407373	loss	sp5	fam0230	756	
+181	0.407763	loss	sp5	fam0130	757	
+182	0.409423	duplication	sp0	fam0295	758	tandem
+183	0.409989	loss	N2	fam0133	759	
+184	0.412392	loss	N2	fam0032	760	
+185	0.41456	duplication	N2	fam0263	761	dispersed:chr2
+186	0.418976	loss	N2	fam0280	762	
+187	0.419898	loss	sp0	fam0151	763	
+188	0.425205	duplication	sp0	fam0299	764	tandem
+189	0.427511	inversion	sp5		-1	chr1:2:3
+190	0.43068	loss	sp0	fam0022	765	
+191	0.434608	duplication	N2	fam0108	766	dispersed:chr2
+192	0.443244	loss	sp5	fam0120	767	
+193	0.44428	inversion	N2		-1	chr2:236:2
+194	0.448585	duplication	sp5	fam0250	768	tandem
+195	0.452142	duplication	N2	fam0233	769	tandem
+196	0.452622	loss	sp5	fam0204	770	
+197	0.453357	duplication	N2	fam0049	771	dispersed:chr1
+198	0.466274	loss	N2	fam0265	772	
+199	0.468411	loss	N2	fam0121	773	
+200	0.469047	duplication	sp0	fam0002	774	tandem
+201	0.469613	loss	N2	fam0254	775	
+202	0.472119	loss	sp0	fam0281	776	
+203	0.472378	inversion	sp5		-1	chr2:85:12
+204	0.473109	duplication	sp0	fam0155	777	tandem
+205	0.476423	inversion	N2		-1	chr2:66:3
+206	0.477153	duplication	sp5	fam0279	778	tandem
+207	0.478386	duplication	sp5	fam0095	779	tandem
+208	0.48021	duplication	N2	fam0140	780	tandem
+209	0.480213	loss	N2	fam0085	781	
+210	0.480259	duplication	sp5	fam0239	782	dispersed:chr2
+211	0.481161	duplication	N2	fam0080	783	tandem
+212	0.486518	duplication	N2	fam0148	784	tandem
+213	0.489119	duplication	N2	fam0197	785	dispersed:chr2
+214	0.495851	loss	N2	fam0002	786	
+215	0.495976	duplication	sp5	fam0271	787	tandem
+216	0.497332	loss	N2	fam0080	788	
+217	0.500848	loss	sp5	fam0161	789	
+218	0.504373	loss	N2	fam0221	790	
+219	0.505434	loss	sp0	fam0140	791	
+220	0.506719	inversion	sp0		-1	chr2:102:1
+221	0.509679	duplication	sp5	fam0057	792	dispersed:chr1
+222	0.509985	loss	N2	fam0218	793	
+223	0.512242	duplication	sp0	fam0188	794	tandem
+224	0.51284	duplication	sp5	fam0144	795	tandem
+225	0.51412	inversion	sp0		-1	chr2:174:3
+226	0.514723	loss	N2	fam0119	796	
+227	0.515267	duplication	sp5	fam0156	797	tandem
+228	0.517303	duplication	sp0	fam0163	798	tandem
+229	0.520498	inversion	N2		-1	chr2:190:1
+230	0.521505	duplication	sp5	fam0223	799	dispersed:chr2
+231	0.529217	duplication	sp5	fam0157	800	tandem
+232	0.532278	duplication	sp0	fam0160	801	tandem
+233	0.53671	loss	sp0	fam0209	802	
+234	0.538022	duplication	sp5	fam0101	803	dispersed:chr1
+235	0.541993	duplication	sp5	fam0145	804	tandem
+236	0.543744	inversion	N2		-1	chr2:90:1
+237	0.54466	duplication	sp5	fam0295	805	tandem
+238	0.544679	loss	N2	fam0160	806	
+239	0.546121	loss	sp5	fam0037	807	
+240	0.549693	loss	N2	fam0172	808	
+241	0.554068	loss	N2	fam0271	809	
+242	0.555347	inversion	sp0		-1	chr2:263:7
+243	0.55832	loss	N2	fam0288	810	
+244	0.558941	translocation	sp0		-1	chr2:25:2->chr2:146:inv
+245	0.564284	inversion	N2		-1	chr1:35:3
+246	0.56535	loss	N2	fam0006	811	
+247	0.566324	duplication	sp0	fam0136	812	tandem
+248	0.566571	duplication	N2	fam0088	813	tandem
+249	0.567807	loss	sp0	fam0262	814	
+250	0.569439	inversion	N2		-1	chr2:156:2
+251	0.572301	duplication	sp1	fam0128	1118	dispersed:chr2
+252	0.573365	loss	sp5	fam0260	1119	
+253	0.577409	duplication	N3	fam0088	1120	tandem
+254	0.577877	loss	N3	fam0103	1121	
+255	0.581117	inversion	sp5		-1	chr2:32:2
+256	0.588672	loss	sp1	fam0064	1122	
+257	0.589133	duplication	sp1	fam0091	1123	tandem
+258	0.589413	duplication	sp5	fam0040	1124	tandem
+259	0.592018	duplication	N3	fam0168	1125	tandem
+260	0.599131	duplication	sp1	fam0238	1126	tandem
+261	0.602909	duplication	sp1	fam0243	1127	tandem
+262	0.603184	inversion	sp5		-1	chr1:34:6
+263	0.604799	duplication	sp0	fam0105	1128	tandem
+264	0.607734	duplication	sp1	fam0289	1129	tandem
+265	0.609491	duplication	sp0	fam0165	1130	tandem
+266	0.613717	loss	sp0	fam0003	1131	
+267	0.616176	loss	N3	fam0136	1132	
+268	0.61738	duplication	sp1	fam0088	1133	tandem
+269	0.618906	duplication	sp1	fam0151	1134	dispersed:chr2
+270	0.619089	loss	N3	fam0126	1135	
+271	0.623166	duplication	N3	fam0272	1136	tandem
+272	0.623237	duplication	N3	fam0232	1137	tandem
+273	0.625056	translocation	N3		-1	chr2:7:1->chr1:23:inv
+274	0.628192	loss	N3	fam0154	1138	
+275	0.631283	inversion	sp0		-1	chr2:91:3
+276	0.634525	duplication	sp0	fam0080	1139	tandem
+277	0.634721	loss	sp0	fam0165	1140	
+278	0.635775	duplication	N3	fam0086	1141	tandem
+279	0.637876	duplication	sp1	fam0292	1142	tandem
+280	0.638137	duplication	sp0	fam0182	1143	tandem
+281	0.640147	loss	sp1	fam0093	1144	
+282	0.64278	loss	sp5	fam0234	1145	
+283	0.643831	duplication	sp0	fam0165	1146	tandem
+284	0.644121	loss	N3	fam0053	1147	
+285	0.645105	loss	sp1	fam0256	1148	
+286	0.64725	loss	sp5	fam0180	1149	
+287	0.649248	loss	sp0	fam0192	1150	
+288	0.649554	duplication	N3	fam0193	1151	tandem
+289	0.651706	duplication	N3	fam0239	1152	dispersed:chr2
+290	0.652611	duplication	sp1	fam0285	1153	tandem
+291	0.654991	loss	N3	fam0290	1154	
+292	0.655255	loss	sp0	fam0045	1155	
+293	0.656908	loss	sp5	fam0227	1156	
+294	0.657044	loss	sp0	fam0146	1157	
+295	0.657429	duplication	sp0	fam0294	1158	tandem
+296	0.661213	duplication	sp5	fam0120	1159	tandem
+297	0.667866	inversion	sp5		-1	chr2:99:1
+298	0.669464	inversion	sp5		-1	chr1:29:10
+299	0.6703	inversion	N3		-1	chr2:133:2
+300	0.67119	inversion	N3		-1	chr2:46:4
+301	0.67397	loss	N3	fam0053	1160	
+302	0.6768	loss	N3	fam0035	1161	
+303	0.677279	duplication	sp5	fam0181	1162	tandem
+304	0.678799	duplication	sp5	fam0088	1163	dispersed:chr2
+305	0.68258	duplication	N3	fam0051	1164	tandem
+306	0.684688	duplication	sp1	fam0277	1165	dispersed:chr2
+307	0.685991	loss	N3	fam0001	1166	
+308	0.690197	duplication	N3	fam0193	1167	tandem
+309	0.690254	duplication	N3	fam0178	1168	dispersed:chr2
+310	0.691828	loss	N3	fam0142	1169	
+311	0.691871	duplication	sp1	fam0194	1170	tandem
+312	0.694001	loss	sp0	fam0276	1171	
+313	0.694183	loss	sp5	fam0119	1172	
+314	0.699531	loss	N3	fam0231	1173	
+315	0.700215	duplication	sp5	fam0178	1174	dispersed:chr1
+316	0.70171	inversion	sp5		-1	chr2:37:14
+317	0.705184	duplication	sp5	fam0044	1175	tandem
+318	0.705695	duplication	sp1	fam0053	1176	tandem
+319	0.709554	duplication	sp5	fam0214	1177	tandem
+320	0.709626	duplication	sp1	fam0291	1178	tandem
+321	0.710159	loss	N3	fam0020	1179	
+322	0.711701	inversion	sp5		-1	chr2:79:5
+323	0.711706	duplication	sp0	fam0041	1180	tandem
+324	0.711854	loss	sp1	fam0209	1181	
+325	0.712633	duplication	sp1	fam0108	1182	tandem
+326	0.713702	duplication	sp5	fam0102	1183	dispersed:chr2
+327	0.71476	loss	sp5	fam0014	1184	
+328	0.718185	loss	sp1	fam0067	1185	
+329	0.719195	duplication	N3	fam0056	1186	tandem
+330	0.720194	duplication	sp1	fam0053	1187	tandem
+331	0.720337	duplication	sp1	fam0157	1188	tandem
+332	0.726255	inversion	N3		-1	chr2:0:2
+333	0.726566	duplication	sp0	fam0020	1189	tandem
+334	0.727769	duplication	sp0	fam0127	1190	tandem
+335	0.729179	inversion	sp5		-1	chr2:144:5
+336	0.729226	loss	N3	fam0273	1191	
+337	0.72983	duplication	sp5	fam0191	1192	tandem
+338	0.730083	duplication	N3	fam0298	1193	tandem
+339	0.732629	duplication	sp0	fam0227	1194	tandem
+340	0.737442	duplication	sp0	fam0094	1195	tandem
+341	0.738438	loss	sp0	fam0047	1196	
+342	0.740314	translocation	sp5		-1	chr2:213:1->chr2:5:inv
+343	0.742355	inversion	sp0		-1	chr2:170:4
+344	0.746717	duplication	sp0	fam0160	1499	dispersed:chr2
+345	0.747175	loss	sp5	fam0193	1500	
+346	0.747806	duplication	sp1	fam0113	1501	tandem
+347	0.748135	loss	sp5	fam0170	1502	
+348	0.751457	duplication	sp4	fam0149	1503	dispersed:chr2
+349	0.752583	loss	N4	fam0206	1504	
+350	0.753867	duplication	N4	fam0075	1505	tandem
+351	0.754061	duplication	sp4	fam0083	1506	tandem
+352	0.754153	duplication	N4	fam0028	1507	tandem
+353	0.755336	loss	sp5	fam0293	1508	
+354	0.760032	duplication	sp4	fam0059	1509	tandem
+355	0.760201	duplication	N4	fam0144	1510	tandem
+356	0.760306	loss	sp0	fam0024	1511	
+357	0.76109	inversion	sp4		-1	chr2:55:1
+358	0.761537	duplication	sp0	fam0210	1512	tandem
+359	0.762097	loss	N4	fam0281	1513	
+360	0.763149	duplication	sp1	fam0189	1514	tandem
+361	0.763385	loss	N4	fam0120	1515	
+362	0.764051	loss	sp4	fam0179	1516	
+363	0.76597	loss	sp4	fam0061	1517	
+364	0.768515	duplication	sp0	fam0242	1518	tandem
+365	0.769013	duplication	sp5	fam0085	1519	dispersed:chr2
+366	0.772474	loss	sp5	fam0148	1520	
+367	0.774035	loss	sp0	fam0068	1521	
+368	0.776457	inversion	sp0		-1	chr2:165:8
+369	0.778022	inversion	sp1		-1	chr2:36:1
+370	0.77889	translocation	N4		-1	chr2:57:2->chr2:26:inv
+371	0.779834	loss	sp0	fam0092	1522	
+372	0.77993	loss	sp4	fam0011	1523	
+373	0.780765	loss	sp0	fam0117	1524	
+374	0.781098	loss	N4	fam0127	1525	
+375	0.781679	duplication	sp1	fam0247	1526	tandem
+376	0.783598	loss	sp1	fam0251	1527	
+377	0.788371	duplication	sp0	fam0097	1528	tandem
+378	0.788545	duplication	sp1	fam0069	1529	tandem
+379	0.78885	inversion	N4		-1	chr2:99:7
+380	0.789207	loss	sp1	fam0120	1530	
+381	0.793946	duplication	sp4	fam0262	1531	tandem
+382	0.795436	duplication	N4	fam0241	1532	dispersed:chr2
+383	0.795591	duplication	sp4	fam0275	1533	dispersed:chr2
+384	0.801387	loss	sp0	fam0084	1534	
+385	0.803259	duplication	sp1	fam0003	1535	tandem
+386	0.805476	inversion	sp0		-1	chr2:58:11
+387	0.806482	duplication	sp5	fam0088	1536	tandem
+388	0.807143	duplication	sp4	fam0214	1537	tandem
+389	0.807202	loss	N4	fam0046	1538	
+390	0.807303	translocation	sp1		-1	chr2:101:2->chr2:212:inv
+391	0.809203	duplication	sp5	fam0295	1539	tandem
+392	0.809407	loss	sp5	fam0106	1540	
+393	0.811597	duplication	sp5	fam0122	1541	dispersed:chr2
+394	0.811976	translocation	sp5		-1	chr2:76:1->chr1:26:fwd
+395	0.814962	duplication	sp5	fam0163	1542	tandem
+396	0.816373	loss	sp5	fam0043	1543	
+397	0.817334	loss	sp1	fam0095	1544	
+398	0.818623	duplication	sp5	fam0116	1545	dispersed:chr2
+399	0.819123	loss	sp0	fam0174	1546	
+400	0.819289	duplication	sp5	fam0036	1547	tandem
+401	0.82028	duplication	sp1	fam0244	1548	dispersed:chr2
+402	0.820849	loss	sp1	fam0034	1549	
+403	0.821639	inversion	sp1		-1	chr2:206:1
+404	0.822817	duplication	sp4	fam0038	1550	tandem
+405	0.823164	duplication	sp5	fam0105	1551	dispersed:chr1
+406	0.824826	loss	N4	fam0152	1552	
+407	0.825951	loss	sp0	fam0021	1553	
+408	0.825987	duplication	sp5	fam0199	1554	tandem
+409	0.826488	loss	sp5	fam0283	1555	
+410	0.828819	loss	sp5	fam0236	1556	
+411	0.828975	duplication	sp5	fam0100	1557	tandem
+412	0.829012	duplication	sp1	fam0197	1558	tandem
+413	0.830539	duplication	sp0	fam0222	1559	tandem
+414	0.831707	duplication	sp0	fam0256	1560	tandem
+415	0.838379	loss	sp4	fam0123	1561	
+416	0.838479	duplication	sp1	fam0065	1562	dispersed:chr2
+417	0.838552	loss	sp1	fam0287	1563	
+418	0.84061	duplication	sp1	fam0045	1564	tandem
+419	0.841149	duplication	sp0	fam0094	1565	tandem
+420	0.842768	loss	sp4	fam0092	1566	
+421	0.843389	duplication	sp0	fam0145	1567	dispersed:chr2
+422	0.843429	loss	sp4	fam0168	1568	
+423	0.844916	duplication	sp4	fam0043	1569	tandem
+424	0.847754	duplication	sp5	fam0250	1570	tandem
+425	0.847908	duplication	sp5	fam0092	1571	tandem
+426	0.850426	loss	sp5	fam0244	1572	
+427	0.851634	loss	sp5	fam0037	1573	
+428	0.855314	translocation	sp1		-1	chr2:33:2->chr1:36:inv
+429	0.855742	loss	sp4	fam0046	1574	
+430	0.862029	loss	N4	fam0016	1575	
+431	0.863003	duplication	sp1	fam0293	1576	tandem
+432	0.86346	loss	sp4	fam0155	1577	
+433	0.8638	loss	sp0	fam0299	1578	
+434	0.865965	inversion	N4		-1	chr2:139:4
+435	0.866887	duplication	sp1	fam0284	1579	tandem
+436	0.867012	duplication	sp0	fam0255	1580	dispersed:chr2
+437	0.869257	inversion	N4		-1	chr1:16:3
+438	0.874259	loss	sp5	fam0166	1581	
+439	0.875183	duplication	N4	fam0277	1582	tandem
+440	0.876554	duplication	N4	fam0197	1583	tandem
+441	0.880834	loss	N4	fam0219	1584	
+442	0.883159	loss	sp5	fam0280	1585	
+443	0.883541	duplication	sp5	fam0142	1586	dispersed:chr2
+444	0.885705	loss	sp0	fam0048	1587	
+445	0.886235	loss	N4	fam0162	1588	
+446	0.886566	duplication	sp0	fam0167	1589	tandem
+447	0.887795	loss	sp1	fam0079	1590	
+448	0.888228	loss	N4	fam0296	1591	
+449	0.888477	inversion	sp5		-1	chr2:72:4
+450	0.889639	loss	N4	fam0167	1592	
+451	0.889739	loss	sp5	fam0002	1593	
+452	0.890054	inversion	N4		-1	chr2:239:4
+453	0.891321	duplication	sp0	fam0056	1594	tandem
+454	0.894407	loss	sp4	fam0024	1595	
+455	0.895846	inversion	sp4		-1	chr2:129:1
+456	0.89876	loss	sp0	fam0114	1596	
+457	0.899923	duplication	sp5	fam0120	1597	tandem
+458	0.9005	loss	sp0	fam0217	1598	
+459	0.902777	inversion	sp1		-1	chr2:100:1
+460	0.903522	loss	sp1	fam0199	1599	
+461	0.904949	duplication	sp1	fam0165	1600	tandem
+462	0.907972	loss	sp4	fam0104	1601	
+463	0.908217	loss	sp0	fam0184	1602	
+464	0.909072	inversion	sp1		-1	chr1:18:5
+465	0.909373	loss	sp1	fam0094	1603	
+466	0.90979	loss	N4	fam0084	1604	
+467	0.910032	duplication	sp1	fam0238	1901	dispersed:chr2
+468	0.91048	duplication	sp3	fam0038	1902	dispersed:chr2
+469	0.912023	duplication	sp2	fam0233	1903	tandem
+470	0.912289	duplication	sp4	fam0040	1904	tandem
+471	0.912973	loss	sp0	fam0085	1905	
+472	0.913304	loss	sp0	fam0120	1906	
+473	0.913645	loss	sp4	fam0109	1907	
+474	0.914749	duplication	sp5	fam0272	1908	dispersed:chr1
+475	0.915351	inversion	sp2		-1	chr1:32:4
+476	0.91702	loss	sp5	fam0252	1909	
+477	0.918634	inversion	sp1		-1	chr2:154:9
+478	0.921285	duplication	sp2	fam0028	1910	tandem
+479	0.922589	loss	sp3	fam0108	1911	
+480	0.923583	translocation	sp5		-1	chr2:182:1->chr1:37:inv
+481	0.92475	loss	sp1	fam0131	1912	
+482	0.926025	loss	sp0	fam0201	1913	
+483	0.927868	duplication	sp3	fam0179	1914	tandem
+484	0.929065	duplication	sp0	fam0011	1915	tandem
+485	0.929093	inversion	sp3		-1	chr2:68:1
+486	0.929723	duplication	sp0	fam0292	1916	tandem
+487	0.931355	duplication	sp3	fam0162	1917	dispersed:chr2
+488	0.933754	duplication	sp0	fam0212	1918	tandem
+489	0.934836	inversion	sp1		-1	chr2:271:1
+490	0.935992	duplication	sp5	fam0105	1919	dispersed:chr2
+491	0.936413	loss	sp3	fam0170	1920	
+492	0.9394	duplication	sp4	fam0167	1921	tandem
+493	0.940095	loss	sp3	fam0021	1922	
+494	0.94074	translocation	sp3		-1	chr2:82:2->chr2:7:fwd
+495	0.940753	duplication	sp1	fam0272	1923	tandem
+496	0.941011	duplication	sp1	fam0123	1924	tandem
+497	0.941251	loss	sp0	fam0158	1925	
+498	0.942321	loss	sp4	fam0003	1926	
+499	0.942589	translocation	sp1		-1	chr2:35:2->chr2:85:fwd
+500	0.944422	loss	sp3	fam0186	1927	
+501	0.944441	loss	sp1	fam0291	1928	
+502	0.945575	loss	sp3	fam0209	1929	
+503	0.946332	loss	sp0	fam0162	1930	
+504	0.946879	duplication	sp5	fam0241	1931	tandem
+505	0.947297	duplication	sp5	fam0092	1932	tandem
+506	0.949463	duplication	sp0	fam0011	1933	tandem
+507	0.950147	duplication	sp0	fam0041	1934	tandem
+508	0.950644	loss	sp5	fam0108	1935	
+509	0.951687	duplication	sp3	fam0106	1936	dispersed:chr2
+510	0.951716	translocation	sp5		-1	chr2:253:3->chr2:243:fwd
+511	0.956652	loss	sp3	fam0267	1937	
+512	0.958064	duplication	sp3	fam0193	1938	dispersed:chr1
+513	0.958295	duplication	sp5	fam0126	1939	tandem
+514	0.959871	duplication	sp2	fam0138	1940	tandem
+515	0.960172	duplication	sp1	fam0239	1941	dispersed:chr2
+516	0.960442	loss	sp5	fam0136	1942	
+517	0.960852	duplication	sp4	fam0117	1943	tandem
+518	0.961947	loss	sp1	fam0080	1944	
+519	0.963934	loss	sp2	fam0238	1945	
+520	0.964227	duplication	sp5	fam0157	1946	tandem
+521	0.964287	loss	sp3	fam0140	1947	
+522	0.964535	loss	sp0	fam0128	1948	
+523	0.966018	loss	sp4	fam0274	1949	
+524	0.966919	duplication	sp4	fam0184	1950	tandem
+525	0.967488	duplication	sp4	fam0056	1951	tandem
+526	0.968474	duplication	sp4	fam0081	1952	tandem
+527	0.968573	loss	sp5	fam0102	1953	
+528	0.969816	loss	sp4	fam0027	1954	
+529	0.970643	loss	sp0	fam0002	1955	
+530	0.97094	duplication	sp1	fam0233	1956	tandem
+531	0.972472	loss	sp1	fam0144	1957	
+532	0.972879	loss	sp5	fam0246	1958	
+533	0.973649	inversion	sp5		-1	chr2:251:2
+534	0.977014	translocation	sp3		-1	chr2:53:7->chr1:14:inv
+535	0.977531	loss	sp3	fam0055	1959	
+536	0.97973	loss	sp1	fam0170	1960	
+537	0.980494	loss	sp5	fam0210	1961	
+538	0.982677	duplication	sp3	fam0297	1962	tandem
+539	0.98429	duplication	sp0	fam0260	1963	dispersed:chr2
+540	0.984674	duplication	sp0	fam0199	1964	dispersed:chr2
+541	0.987712	loss	sp5	fam0274	1965	
+542	0.987988	translocation	sp0		-1	chr2:5:1->chr2:260:fwd
+543	0.988026	duplication	sp3	fam0192	1966	tandem
+544	0.989381	inversion	sp4		-1	chr2:121:2
+545	0.989545	inversion	sp4		-1	chr2:259:3
+546	0.990164	duplication	sp0	fam0123	1967	tandem
+547	0.994887	duplication	sp3	fam0090	1968	tandem
+548	0.995897	loss	sp5	fam0040	1969	
+549	0.996408	loss	sp5	fam0030	1970	
+550	0.996432	duplication	sp0	fam0163	1971	dispersed:chr2
+551	0.997238	duplication	sp4	fam0047	1972	tandem
+552	0.998983	duplication	sp2	fam0247	1973	tandem

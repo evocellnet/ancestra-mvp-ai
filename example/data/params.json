@@ -1,0 +1,48 @@
+{
+ "seed": 11,
+ "params": {
+  "n_species": 6,
+  "n_genes": 300,
+  "n_chromosomes": 2,
+  "newick": null,
+  "tree_height": null,
+  "dup_rate": 0.2,
+  "loss_rate": 0.2,
+  "inversion_rate": 0.05,
+  "translocation_rate": 0.02,
+  "hgt_rate": 0.0,
+  "dispersed_dup_frac": 0.2,
+  "block_mean": 4.0,
+  "wgd_branch": null,
+  "wgd_position": 0.5,
+  "wgd_fractionation": 0.5,
+  "gamma_shape": 1.0,
+  "gamma_categories": 4,
+  "family_rate_shape": 2.0,
+  "indel_rate": 0.02,
+  "indel_mean_len": 3.0,
+  "indel_max_len": 20,
+  "neo_factor": 1.0,
+  "lineage_rates": null,
+  "neo_duration": 0.05,
+  "len_min": 150,
+  "len_max": 600,
+  "min_protein_len": 50
+ },
+ "version": "0.1.0",
+ "runtime_s": 0.738,
+ "stats": {
+  "n_proteins": 1828,
+  "n_families_surviving": 299,
+  "n_true_ortholog_pairs": 4613,
+  "n_events": {
+   "duplication": 247,
+   "loss": 223,
+   "inversion": 63,
+   "translocation": 20,
+   "hgt": 0,
+   "wgd": 0
+  },
+  "wgd_branch": null
+ }
+}

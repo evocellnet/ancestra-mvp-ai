@@ -1,0 +1,13 @@
+species	n_proteins	n_mapped	coverage	n_mapped_via_gene_id	n_non_primary	n_projected	n_non_primary_unprojected	n_contigs	n_genes_on_contigs_ge10	gff
+Caenorhabditis_elegans	20191	20191	1.0	20191	0	0	0	7	20191	Caenorhabditis_elegans.WBcel235.99.gff3.gz
+Canis_familiaris	20257	20257	1.0	0	0	0	0	221	20004	Canis_familiaris.CanFam3.1.99.gff3.gz
+Ciona_intestinalis	16671	16671	1.0	0	0	0	0	733	15048	Ciona_intestinalis.KH.99.gff3.gz
+Danio_rerio	30313	30313	1.0	0	4721	4437	284	447	29704	Danio_rerio.GRCz11.99.chr_patch_hapl_scaff.gff3.gz
+Drosophila_melanogaster	13947	13947	1.0	0	0	0	0	12	13942	Drosophila_melanogaster.BDGP6.28.99.gff3.gz
+Gallus_gallus	16878	16878	1.0	0	0	0	0	81	16804	Gallus_gallus.GRCg6a.99.gff3.gz
+Homo_sapiens	23485	23482	0.999872	0	3051	2959	92	76	23408	Homo_sapiens.GRCh38.99.chr_patch_hapl_scaff.gff3.gz
+Monodelphis_domestica	21384	21384	1.0	0	0	0	0	425	20617	Monodelphis_domestica.ASM229v1.99.gff3.gz
+Mus_musculus	22866	22865	0.999956	0	350	342	8	44	22792	Mus_musculus.GRCm38.99.chr_patch_hapl_scaff.gff3.gz
+Pan_troglodytes	23534	23534	1.0	0	0	0	0	625	22417	Pan_troglodytes.Pan_tro_3.0.99.gff3.gz
+Rattus_norvegicus	22250	22250	1.0	0	0	0	0	133	22054	Rattus_norvegicus.Rnor_6.0.99.gff3.gz
+Tetraodon_nigroviridis	19602	19602	1.0	0	0	0	0	27	19602	Tetraodon_nigroviridis.TETRAODON8.99.gff3.gz
